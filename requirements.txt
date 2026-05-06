@@ -1,0 +1,2 @@
+httpx>=0.25.0
+yt-dlp  # Optional: only needed for Twitter/X extraction
